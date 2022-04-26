@@ -1,0 +1,48 @@
+### R E S U L T S ###
+Speedometer 
+https://browserbench.org/Speedometer2.0/
+64bit Quartz      0
+64 bit Tor        13.3
+64bit Firefox     15.7
+32bit Chromium    16.7 
+64bit Chromium    18.6
+64bit Vivaldi     19.0
+64bit Chromium    19.4 wayland
+64bit min         19.9
+32bit Puffin      31.4
+
+Speed battle
+http://speed-battle.com/speedtest_e.php
+64bit Tor       42.56
+64bit Firefox  156.14
+64bit min      287.66
+64bit Quartz   304.78
+64bit Vivaldi  311.89
+64bit Chr      372.19 Wayland
+32bit Chr      389.59 
+64bit Chr      392.64
+32bit Puffin   669.24
+
+WebXPRT 3
+https://www.principledtechnologies.co...
+64bit Quartz         score = 0 
+32bit Chromium 98    score = 49
+64bit Vivaldi Chr 98 score = 52
+64bit min chrome 96  score = 54 
+64bit chromium 98    score = 57
+64bit chromium 98    score = 57 wayland
+64bit Firefox 98     score = 57
+32bit Puffin         score = 65
+64bit Tor FireF 91   score = 74
+
+Wirple 
+https://www.wirple.com/
+64bit Quartz   Total score: 0
+64bit Tor      Total score: 0
+64bit Firefox  Total score: 249
+64bit Vivaldi  Total score: 365
+32bit Chromium Total score: 422
+64bit min      Total score: 457    
+64bit Chromium Total score: 512
+64bit Chromium Total score: 576 wayland
+32bit Puffin Total score:  1014 sluggish
